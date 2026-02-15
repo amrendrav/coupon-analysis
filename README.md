@@ -1,5 +1,7 @@
 # Will the Customer Accept the Coupon?
 
+**Author:** AMRENDRA VIMAL
+
 ## Project Overview
 
 This project analyzes customer coupon acceptance behavior using data from a survey conducted on Amazon Mechanical Turk. The goal is to identify patterns and characteristics that distinguish customers who accept driving coupons from those who don't.
